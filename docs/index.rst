@@ -28,6 +28,7 @@ Schedule (First edition, 2026)
 
    tutorials/sits_classification/sits_classification.ipynb
 
+.. toctree::
    :caption: SSL of Visual Representations
    :maxdepth: 1
 
