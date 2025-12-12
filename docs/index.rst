@@ -23,7 +23,7 @@ Schedule (First edition, 2026)
 +--------------------------------------------+--------------------------------------------------------------------------+
 
 .. toctree::
-   :caption: TUTORIALS
+   :caption: Tutorials
    :maxdepth: 0
 
    tutorials/sits_classification/sits_classification.ipynb
