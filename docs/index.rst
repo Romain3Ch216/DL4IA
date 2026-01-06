@@ -25,7 +25,7 @@ Schedule (First edition, 2026)
 Lectures
 ----------
 
-- `A brief introduction to remote sensing and optical satellite images <https://raw.githubusercontent.com/Romain3Ch216/DL4IA/main/docs/lectures/lecture1.pdf>`_
+- `A brief introduction to remote sensing, optical satellite images, and tutorial 1 <https://raw.githubusercontent.com/Romain3Ch216/DL4IA/main/docs/lectures/lecture1.pdf>`_
 
 .. toctree::
    :caption: Tutorials
