@@ -4,7 +4,7 @@ Deep Learning for Image Analysis @ AgroParisTech
 Welcome to the lectures and tutorials on deep learning for image analysis organized at AgroParisTech as part of 
 the IODAA master's program! This page is under construction. It will host the lectures and tutorials given
 in January 2026, following the schedule below. As this is the first time we present this course,
-we expect some bugs and issues. Please, send feedback at romain dot thoreau at agroparistech dot fr.
+we expect some errors, bugs and issues. Please, send feedback at romain dot thoreau at agroparistech dot fr.
 
 
 Schedule (First edition, 2026)
