@@ -22,6 +22,11 @@ Schedule (First edition, 2026)
 | Friday, 23. January 2026, 09:00–12:30      | Tutorial 3: Self-supervised Learning of Visual Representations           |
 +--------------------------------------------+--------------------------------------------------------------------------+
 
+Lectures
+----------
+
+[A brief introduction to remote sensing and optical satellite images](https://raw.githubusercontent.com/Romain3Ch216/DL4IA/main/lectures/lecture1.pdf)
+
 .. toctree::
    :caption: Tutorials
    :maxdepth: 1
