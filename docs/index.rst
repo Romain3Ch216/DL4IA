@@ -11,21 +11,21 @@ Schedule (First edition, 2026)
 ----------------------------------------
 
 +--------------------------------------------+--------------------------------------------------------------------------+
-| **Date**                                   | **Tutorial**                                                             |
+| **Date**                                   | **Lectures / Tutorials**                                                             |
 +============================================+==========================================================================+
-| Friday, 16. January 2026, 09:00–12:30      | Tutorial 1: Classification of Satellite Image Time Series with           |
+| Friday, 16. January 2026, 09:00–12:30      | Session 1: Classification of Satellite Image Time Series with            |
 |                                            | Transformers                                                             |
 +--------------------------------------------+--------------------------------------------------------------------------+
-| Tuesday, 20. January 2026, 14:00–17:30     | Tutorial 2: Deep Learning for MRI reconstruction:                        |
+| Tuesday, 20. January 2026, 14:00–17:30     | Session 2: Deep Learning for MRI reconstruction:                         |
 |                                            | about instabilities and hallucinations                                   |
 +--------------------------------------------+--------------------------------------------------------------------------+
-| Friday, 23. January 2026, 09:00–12:30      | Tutorial 3: Self-supervised Learning of Visual Representations           |
+| Friday, 23. January 2026, 09:00–12:30      | Session 3: Self-supervised Learning of Visual Representations            |
 +--------------------------------------------+--------------------------------------------------------------------------+
 
 Lectures
 ----------
 
-- `Lecture 1: a brief introduction to remote sensing and optical satellite images <https://raw.githubusercontent.com/Romain3Ch216/DL4IA/main/docs/lectures/lecture1.pdf>`_
+- `A brief introduction to remote sensing and optical satellite images <https://raw.githubusercontent.com/Romain3Ch216/DL4IA/main/docs/lectures/lecture1.pdf>`_
 
 .. toctree::
    :caption: Tutorials
