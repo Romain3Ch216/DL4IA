@@ -38,6 +38,12 @@ Lectures
 The tutorials are based on recent publications in top-tier scientific journals or conferences. 
 They reproduce parts or variants of their numerical experiments.
 
+.. toctree::
+   :caption: Guides
+   :maxdepth: 1
+
+   tutorials/multispectral_images/multispectral_images.ipynb
+
 Evaluation
 ----------
 
